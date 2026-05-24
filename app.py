@@ -39,7 +39,7 @@ def home():
             <p>✨ Bridal Makeup</p>
             <p>✨ Hair Styling</p>
 
-            <h3>📞 Contact: 9876543210</h3>
+            <h3>📞 Contact: 9876543213</h3>
         </div>
     </body>
     </html>
